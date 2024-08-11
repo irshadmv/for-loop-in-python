@@ -1,0 +1,5 @@
+nMax=10
+a=[]
+for n in range(1,nMax,2):
+    a.append(n*2)
+print(a)
